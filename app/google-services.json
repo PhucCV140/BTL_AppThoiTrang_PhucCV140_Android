@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "428740351567",
+    "firebase_url": "https://btl-android-java-default-rtdb.firebaseio.com",
+    "project_id": "btl-android-java",
+    "storage_bucket": "btl-android-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428740351567:android:592b62ea10d3400952bc3a",
+        "android_client_info": {
+          "package_name": "com.example.appthoitrang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUTffVs9o5jzAbR0LPNqSXGOnfuS5T2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428740351567:android:b5e052428f51070f52bc3a",
+        "android_client_info": {
+          "package_name": "com.example.btl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiUTffVs9o5jzAbR0LPNqSXGOnfuS5T2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

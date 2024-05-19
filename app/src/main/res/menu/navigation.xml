@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mProduct"
+        android:title="Product"
+        android:icon="@drawable/icon_product"/>
+    <item android:id="@+id/mSold"
+        android:title="Sold"
+        android:icon="@drawable/icon_sold"/>
+    <item android:id="@+id/mClient"
+        android:title="Client"
+        android:icon="@drawable/icon_client"/>
+    <item android:id="@+id/mProfile"
+        android:title="Profile"
+        android:icon="@drawable/btn_4"/>
+</menu>
